@@ -1,0 +1,6 @@
+Destornillador
+Martillo
+Tornillo
+Sierra
+Palanca
+Cinta métrica
